@@ -1,3 +1,3 @@
-# GFLeads
+# Лендинг компании GFLeads
 
-Ссылка: https://pasha845.github.io/GFLeads/
+Ссылка на сайт: https://pasha845.github.io/GFLeads/
